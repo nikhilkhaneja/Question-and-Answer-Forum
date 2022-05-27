@@ -10,6 +10,8 @@
 ***
 ### PROJECT DESCRIPTION:
 The aim of the project is to create a user-friendly website where users can create account and log-in. Once they are logged in they can ask question by selecting the topics from the topic hierarchey and post the question. 
+
 The users can answer the questions that are asked and create new category to ask question if the category does not exists.
+
 The users can search the questions and answers using the keyword and filter the questions category wise.
 ***
